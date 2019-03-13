@@ -1,2 +1,5 @@
+<<<<<<< HEAD
 formation 2
+=======
+>>>>>>> modif form1
 formation 2 suite

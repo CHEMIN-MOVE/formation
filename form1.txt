@@ -2,5 +2,8 @@
 formation 1 suite
 formation 1 suite
 ajout cédric
+<<<<<<< HEAD
 formation 1 suite
 modif form1
+=======
+>>>>>>> ce812cd65da772d08c81c723e4eb474432c9e211

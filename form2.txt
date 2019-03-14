@@ -1,5 +1,8 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 formation 2
 =======
 >>>>>>> modif form1
+=======
+>>>>>>> ce812cd65da772d08c81c723e4eb474432c9e211
 formation 2 suite
